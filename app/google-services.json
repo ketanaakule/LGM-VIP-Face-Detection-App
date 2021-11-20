@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523542114944",
+    "firebase_url": "https://face-detection-app-d509c-default-rtdb.firebaseio.com",
+    "project_id": "face-detection-app-d509c",
+    "storage_bucket": "face-detection-app-d509c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523542114944:android:96dbf7c099d43e9635ac65",
+        "android_client_info": {
+          "package_name": "com.ketanaakule.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523542114944-8jbi2e9mnth44e99cncqasl7jfslfm7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmfjf7g6k2aI0z2_0ay0Wvr6vLnOgr7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523542114944-8jbi2e9mnth44e99cncqasl7jfslfm7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
